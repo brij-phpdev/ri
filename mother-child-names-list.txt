@@ -1,0 +1,41 @@
+ALTER TABLE `users` CHANGE `login_code` `login_code` VARCHAR(255) NOT NULL;
+
+INSERT INTO `anm_asha_relation` (`id`, `anm_id`, `asha_id`, `location_id`) VALUES (NULL, 3, 2, 3), (NULL, 2, 1, 4)
+
+INSERT INTO `anms` (`id`, `anm_name`, `user_id`, `territory_id`, `mobile_number`, `status`) VALUES (NULL, 'उर्मिला देवी', '4', NULL, '8273545850', '1');
+'check_for'=>array('IPV1','OPV1','DPT1','PENTA1'),'next_bucket'=>array('RVV2','OPV2','DPT2','PENTA2')
+---------------------------------------
+mother names
+-----------------------------------
+
+
+विमलेश	
+रिंकी
+पूनम
+लक्ष्मी
+वोवी
+पिंकी
+गीता 
+प्रियंका
+रजनी
+बीना
+प्रिति
+नेहा
+
+
+----------------------
+child
+---------------------
+पवौ
+अहान	
+वंश
+खुशबू
+अरायन
+कंगना
+जानवी
+आशिका
+कान्हा
+गुनगुन
+भरत
+ओम
+
